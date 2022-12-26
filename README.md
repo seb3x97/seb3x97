@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I'm working on a Shortcut Python App
-🤝 I'm looking to collaborate on a Python Bot for Cryptocurrencies
-🌱 I'm learning Rust/Solidity
-✨ I love making bots
+🔭 I'm working on a Shortcut Python App<br>
+🤝 I'm looking to collaborate on a Python Bot for Cryptocurrencies<br>
+🌱 I'm learning Rust/Solidity<br>
+✨ I love making bots<br>
 
 
 # 💻 Tech Stack:
